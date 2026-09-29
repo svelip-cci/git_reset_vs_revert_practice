@@ -1,1 +1,2 @@
 "Employee feature"
+"Dashboard feature"
